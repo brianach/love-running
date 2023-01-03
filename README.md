@@ -6,12 +6,12 @@
 # Table of Contents
 
 - [Plassy](#milestonoe-1-project--plassy)
-- [Introduction](#Introcuction)
-- [Goals](#Goals)
-- [Design and Planning](Design and Planning)
-- [Features](#Features)
-- [Language and Technologies](#Language and Technologies)
-- [Testing](#Testing)
+- [Introduction](#introcuction)
+- [Goals](#goals)
+- [Design and Planning](design-and-planning)
+- [Features](#features)
+- [Language and Technologies](#language-and-technologies)
+- [Testing](#testing)
 
 # Introduction
 
