@@ -1,18 +1,19 @@
 
+# Plassy
 
 ![Resting](https://user-images.githubusercontent.com/119498357/210387045-ed479913-868b-4227-a79b-8cfa9e5bb919.jpg)
 
-## Plassy
+# Table of Contents
 
-## Introduction
+# Introduction
 
-## Goals
+# Goals
 
-## Design and Planning
+# Design and Planning
 
 I wanted to incorporate the idea of a historical timeline using skewed and staggered pictures with basic informaion below and above each year. However I wasn't able to impletent this in testing to allow for different screen sizes so I abandoned the idea in favour of a simpler layout.
 
-### Index Page
+## Index Page
 
 
   #### Standard Web Browser Layout
@@ -29,17 +30,17 @@ I wanted to incorporate the idea of a historical timeline using skewed and stagg
 
 
 
-## Features
+# Features
 
-## Languages and Technologies
+# Languages and Technologies
 
 
-## Testing
+# Testing
 
-### Validation
+## Validation
 
-### Responsiveness
+## Responsiveness
 
-### User Story Testing
+## User Story Testing
 
 
